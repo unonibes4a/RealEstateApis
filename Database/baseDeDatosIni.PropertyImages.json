@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0290"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028b",
+  "file": "casa_campestre_1.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0291"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028b",
+  "file": "casa_campestre_2.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0292"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028c",
+  "file": "apto_zona_rosa_1.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0293"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028c",
+  "file": "apto_zona_rosa_2.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0294"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028d",
+  "file": "casa_cedritos_1.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0295"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028e",
+  "file": "penthouse_1.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0296"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028e",
+  "file": "penthouse_2.jpg",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0297"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028f",
+  "file": "apartaestudio_1.jpg",
+  "enabled": true
+}]

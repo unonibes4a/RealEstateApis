@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0298"
+  },
+  "dateSale": {
+    "$date": "2025-08-17T02:20:33.687Z"
+  },
+  "name": "Venta Inicial",
+  "value": {
+    "$numberDecimal": "450000000"
+  },
+  "tax": {
+    "$numberDecimal": "22500000"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028b"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0299"
+  },
+  "dateSale": {
+    "$date": "2025-08-02T02:20:33.687Z"
+  },
+  "name": "Compra",
+  "value": {
+    "$numberDecimal": "320000000"
+  },
+  "tax": {
+    "$numberDecimal": "16000000"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028c"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b029a"
+  },
+  "dateSale": {
+    "$date": "2025-07-18T02:20:33.687Z"
+  },
+  "name": "Transferencia",
+  "value": {
+    "$numberDecimal": "280000000"
+  },
+  "tax": {
+    "$numberDecimal": "14000000"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028d"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b029b"
+  },
+  "dateSale": {
+    "$date": "2025-09-01T02:20:33.687Z"
+  },
+  "name": "Venta Premium",
+  "value": {
+    "$numberDecimal": "850000000"
+  },
+  "tax": {
+    "$numberDecimal": "42500000"
+  },
+  "idProperty": "68c8c9718c4b40c9447b028e"
+}]

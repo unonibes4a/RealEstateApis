@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b028b"
+  },
+  "idOwner": "68c8c9718c4b40c9447b0288",
+  "name": "Casa Campestre en La Sabana",
+  "address": "Vereda La Esperanza, Chía",
+  "price": {
+    "$numberDecimal": "450000000"
+  },
+  "codeInternal": "PROP001",
+  "year": 2020,
+  "image": "casa_campestre.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b028c"
+  },
+  "idOwner": "68c8c9718c4b40c9447b0289",
+  "name": "Apartamento Zona Rosa",
+  "address": "Carrera 13 #85-32, Bogotá",
+  "price": {
+    "$numberDecimal": "320000000"
+  },
+  "codeInternal": "PROP002",
+  "year": 2019,
+  "image": "apto_zona_rosa.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b028d"
+  },
+  "idOwner": "68c8c9718c4b40c9447b0288",
+  "name": "Casa en Cedritos",
+  "address": "Calle 147 #45-67, Bogotá",
+  "price": {
+    "$numberDecimal": "280000000"
+  },
+  "codeInternal": "PROP003",
+  "year": 2021,
+  "image": "casa_cedritos.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b028e"
+  },
+  "idOwner": "68c8c9718c4b40c9447b028a",
+  "name": "Penthouse El Poblado",
+  "address": "Carrera 43A #15-25, Medellín",
+  "price": {
+    "$numberDecimal": "850000000"
+  },
+  "codeInternal": "PROP004",
+  "year": 2022,
+  "image": "penthouse_poblado.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b028f"
+  },
+  "idOwner": "68c8c9718c4b40c9447b0289",
+  "name": "Apartaestudio Chapinero",
+  "address": "Carrera 15 #63-45, Bogotá",
+  "price": {
+    "$numberDecimal": "180000000"
+  },
+  "codeInternal": "PROP005",
+  "year": 2018,
+  "image": "apartaestudio_chapinero.jpg"
+}]

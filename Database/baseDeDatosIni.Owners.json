@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0288"
+  },
+  "name": "Juan Pérez",
+  "address": "Calle 10 #15-20, Bogotá",
+  "photo": "juan_perez.jpg",
+  "birthday": {
+    "$date": "1980-05-15T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b0289"
+  },
+  "name": "María García",
+  "address": "Carrera 25 #30-45, Medellín",
+  "photo": "maria_garcia.jpg",
+  "birthday": {
+    "$date": "1975-08-22T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c8c9718c4b40c9447b028a"
+  },
+  "name": "Carlos López",
+  "address": "Avenida 68 #45-12, Cali",
+  "photo": "carlos_lopez.jpg",
+  "birthday": {
+    "$date": "1985-12-03T05:00:00.000Z"
+  }
+}]
